@@ -1,5 +1,4 @@
-/* eslint-disable no-unused-vars */
-/* eslint-disable */
+
 export default function iterateThroughObject(reportWithIterator) {
     const employees = [];
   
@@ -9,4 +8,3 @@ export default function iterateThroughObject(reportWithIterator) {
   
     return employees.join(' | ');
   }
-  
