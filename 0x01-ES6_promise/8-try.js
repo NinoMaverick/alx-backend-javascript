@@ -10,4 +10,3 @@ export default function divideFunction(numerator, denominator) {
       console.log(error.message);
     }
   }
-  
